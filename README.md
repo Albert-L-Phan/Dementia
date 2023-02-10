@@ -31,6 +31,6 @@ Parks are places where people can exercise. The closer a park is to a neighbourh
 
 To find all the parks in Australia, we filtered all the meshblocks which were classified as 'parkland'. The Australian Bureau of Statistics (ABS) considers parks, nature reserves, as well as golf courses and sporting facilities as parkland. In essence, places where people can exercise. 
 
-![image](https://user-images.githubusercontent.com/78997343/217967971-fb9d74e0-c685-45c4-889c-c04dbcdfebe6.png)
+![image](https://user-images.githubusercontent.com/78997343/217981390-411eb6d7-050c-40e2-a99f-3c62a01a6e4e.png)
 This image shows all residential meshblocks (red) in Eastern Melbourne, as well as parks nearby (green).
 
