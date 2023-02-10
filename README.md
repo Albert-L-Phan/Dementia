@@ -33,4 +33,5 @@ To find all the parks in Australia, we filtered all the meshblocks which were cl
 
 ![image](https://user-images.githubusercontent.com/78997343/217981390-411eb6d7-050c-40e2-a99f-3c62a01a6e4e.png)
 This image shows all residential meshblocks (red) in Eastern Melbourne, as well as parks nearby (green).
-
+![image](https://user-images.githubusercontent.com/78997343/218019626-79220ad5-eb2e-4d20-bed1-7b9b143be9bb.png)
+The average supply of parks for each LGA in Eastern Melbourne
