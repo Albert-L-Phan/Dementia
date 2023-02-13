@@ -35,3 +35,7 @@ To find all the parks in Australia, we filtered all the meshblocks which were cl
 This image shows all residential meshblocks (red) in Eastern Melbourne, as well as parks nearby (green).
 ![image](https://user-images.githubusercontent.com/78997343/218019626-79220ad5-eb2e-4d20-bed1-7b9b143be9bb.png)
 The average supply of parks for each LGA in Eastern Melbourne
+
+### Trees
+![image](https://user-images.githubusercontent.com/78997343/218587448-3879c28e-d808-4b5e-8c4e-d4e3dbc18c9d.png)
+This image shows tree cover for Eastern Melbourne. The shapefiles used to plot the map are from Data Vic, and show areas where tree cover is greater than 1 hectare. 
