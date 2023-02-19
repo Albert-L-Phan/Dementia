@@ -39,3 +39,7 @@ The average supply of parks for each LGA in Eastern Melbourne
 ### Trees
 ![image](https://user-images.githubusercontent.com/78997343/218587448-3879c28e-d808-4b5e-8c4e-d4e3dbc18c9d.png)
 This image shows tree cover for Eastern Melbourne. The shapefiles used to plot the map are from Data Vic, and show areas where tree cover is greater than 1 hectare. 
+
+## Spatial Regression
+![image](https://user-images.githubusercontent.com/78997343/219908191-0d50a91a-0a34-4c36-9ef0-9d050165490b.png)
+
