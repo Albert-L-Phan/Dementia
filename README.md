@@ -54,5 +54,11 @@ There are different libraries in R that can perform spatial regression. This pro
 There are different models available in the R-INLA package. This project used six models. The first is the baseline Fixed Effects Model, a multivariate Poisson regression model, that only considers explanatory variables. The second model has both fixed effects as well as random effects. The third, the Intrinsic Conditional Autoregression (ICAR) or Besag Model, has a spatial random component. The Besag, York and Mollié (BYM) model, is an extension of the Besag Model, as it has both an ICAR component and a non-spatial random component. The Leroux Model combines aspects of the Besag and the BYM Models. The Spatial Lag Model considers both the covariate values of the LGA, as well as the values of the neighbouring regions' response variable.
 
 
-![image](https://user-images.githubusercontent.com/78997343/219908191-0d50a91a-0a34-4c36-9ef0-9d050165490b.png)
+![Rplot03](https://user-images.githubusercontent.com/78997343/221331926-69d37279-3781-478e-9c0e-b387c53d461b.png)
+Here, distance to bike paths and percentage of people over 65 years old are the covariates for these models. 
+
+![image](https://user-images.githubusercontent.com/78997343/221332034-eba5776e-00ae-40c1-955e-0c1c817a386a.png)
+
+
+
 
