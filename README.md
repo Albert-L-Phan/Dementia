@@ -55,7 +55,7 @@ There are different models available in the R-INLA package. For this project, we
 
 
 ![Rplot03](https://user-images.githubusercontent.com/78997343/221331926-69d37279-3781-478e-9c0e-b387c53d461b.png)
-Here, distance to bike paths and percentage of people over 65 years old are the covariates for these models. 
+Here, distance to bike paths and percentage of people over 65 years old are the covariates for these models. The DIC and WAIC show how well the models fit. The lower the DIC and WAIC, the better the model. For this combination of covariates, the IID model has the best fit.
 
 ![image](https://user-images.githubusercontent.com/78997343/221332034-eba5776e-00ae-40c1-955e-0c1c817a386a.png)
 
