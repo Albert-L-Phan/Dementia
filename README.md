@@ -59,6 +59,7 @@ Here, distance to bike paths and percentage of people over 65 years old are the 
 
 ![image](https://user-images.githubusercontent.com/78997343/221332034-eba5776e-00ae-40c1-955e-0c1c817a386a.png)
 
-
+## Data
+The data used for the spatial regression analysis came from PHIDU. PHIDU obtained variables that measured access to healthcare from the National Health Workforce Dataset, variables that measured health risk factors such as obesity and smoking from the National Health Survey from the Australian Bureau of Statistics (ABS), and variables that measured long term health issues such as dementia and heart disease from the 2021 ABS Consenus of Population and Housing.
 
 
